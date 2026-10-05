@@ -4,11 +4,11 @@
 
 ## GitHub Actions
 
-[![Node.js CI](https://github.com/ugioni/integration-tests-jest/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/ugioni/integration-tests-jest/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/xandetds/prova02-integration-test-AlexandreTibes/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/xandetds/prova02-integration-test-AlexandreTibes/actions/workflows/node.js.yml)
 
 ## SonarCloud
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ugioni_integration-tests-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ugioni_integration-tests-jest)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Xandetds_prova02-integration-test-AlexandreTibes&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Xandetds_prova02-integration-test-AlexandreTibes)
 
 # Getting Started
 
